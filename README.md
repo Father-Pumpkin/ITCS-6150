@@ -1,2 +1,2 @@
 # ITCS-6150
- repository for Fall course
+Scrambled Image Puzzle solver using A* Search and Manhattan Distance
